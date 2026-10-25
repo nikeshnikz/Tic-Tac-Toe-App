@@ -48,3 +48,6 @@ googlepay = GooglePay("Ni98765")
 
 process_checkout(googlepay,100)
 
+applepay = ApplePay("Aplle456")
+
+process_checkout(applepay,800)
