@@ -51,3 +51,9 @@ process_checkout(googlepay,100)
 applepay = ApplePay("Aplle456")
 
 process_checkout(applepay,800)
+
+process_checkout(paypal,1000)
+process_checkout(card,2000)
+
+process_checkout(googlepay,6000)
+
